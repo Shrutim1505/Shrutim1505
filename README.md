@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, Its me Shruti 😉</h1>
+<h1 align="center">Hey 👋, Its me....Shruti!! 😉</h1>
 <h3 align="center">A passionate Application developer from India</h3>
 
 -  I’m currently **fourth year student** at IIITM Gwalior.
