@@ -3,7 +3,7 @@
 
 -  I’m currently **fourth year student** at IIITM Gwalior.
 
--  I like to work with **flutter**.
+-  I like to work with **flutter**, **React** , **Golang** etc.
 -  I love to work on my **Problem Solving** skills.
 -  I enjoy tackling challenges that require **analytical thinking** and innovative solutions. 
 -  How to reach me **shrutimurthy2103@gmail.com**
@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/shru-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shru-m" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shrutimurthy2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrutimurthy2103" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shru_v_murthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shru_v_murthy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shru0034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shru0034" height="30" width="40" /></a>
 </p>
 
