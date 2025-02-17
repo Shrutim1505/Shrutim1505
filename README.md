@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti78&show_icons=true&locale=en&layout=compact" alt="shruti78" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shruti78&show_icons=true&locale=en" alt="shruti78" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shruti1505&show_icons=true&locale=en" alt="shruti1505" /></p>
 
 
