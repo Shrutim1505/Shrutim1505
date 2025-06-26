@@ -3,7 +3,7 @@
 
 -  I’m currently **fourth year student** at IIITM Gwalior.
 
--  I like to work with **React**, **Flutter** ,**Nodejs**,**Docker**,**Golang** etc.
+-  I like to work with **React**,**React-Native**, **Flutter** ,**Nodejs**,**Docker**,**Golang** etc.
 -  I love to work on my **Problem Solving** skills.
 -  I enjoy tackling challenges that require **analytical thinking** and innovative solutions. 
 -  How to reach me **shrutimurthy2103@gmail.com**
