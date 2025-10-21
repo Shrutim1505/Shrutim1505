@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, Its me....Shruti!! 😉</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
--  I’m currently **fourth year student** at IIITM Gwalior.
+-  I’m currently **final year student** at IIITM Gwalior.
 
 -  I like to work with **React**,**React-Native**, **Flutter** ,**Nodejs**,**Docker**,**Golang** etc.
 -  I love to work on my **Problem Solving** skills.
